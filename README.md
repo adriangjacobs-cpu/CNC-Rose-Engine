@@ -1,0 +1,1 @@
+THis is about how to build a Rose Engine (Ornamental Lathe) with a CNC cross table driven by an Arduino MEGA and Arduino UNO that drives a diode laser.  Data includes a full manual (currently under development) and Arduino COde
